@@ -1,0 +1,24 @@
+{
+  "name": "tugas_p1",
+  "version": "1.0.0",
+  "main": "tugas1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:tugas1": "node tugas1.js",
+    "dev:tugas1": "nodemon tugas1.js",
+    "start:tugas2": "node tugas2.js",
+    "dev:tugas2": "nodemon tugas2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Elang Surya Prananda\r 2410512113 - Website Development",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "keywords": []
+}
