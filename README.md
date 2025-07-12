@@ -2,7 +2,7 @@
 
 Sebuah proyek sederhana untuk memahami dan mengimplementasikan **RESTful API** menggunakan Node.js.  
 Terdiri dari dua bagian utama: API lokal dengan fitur **CRUD buku** dan koneksi ke **API eksternal Google Books**.  
-Proyek ini dibuat sebagai pemenuhan tugas **P7 - KSM Multimedia Web Development**.
+Proyek ini dibuat sebagai pemenuhan tugas **P2 - KSM Multimedia Web Development**.
 
 ---
 
